@@ -24,7 +24,7 @@
 		  <configuration>
 				<archive>
 					<manifest>
-						<mainClass>ToolsQA.App</mainClass>
+						<mainClass>Micro.App</mainClass>
 					</manifest>
 				</archive>
 			</configuration>
